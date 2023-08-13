@@ -1,4 +1,3 @@
-# ROS1
 
 1. Download and Install VirtualBox:
 https://www.virtualbox.org/wiki/Downloads.
