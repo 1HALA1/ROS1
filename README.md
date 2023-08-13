@@ -1,4 +1,3 @@
-
 1. Download and Install VirtualBox:
 https://www.virtualbox.org/wiki/Downloads.
 
@@ -9,7 +8,7 @@ https://ubuntu.com/download/desktop.
 
 4. Install Ubuntu in the Virtual Machine
 
-5 Open Terminal on Ubuntu
+5. Open Terminal on Ubuntu
 
 6. Install ROS Noetic
 
